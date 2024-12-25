@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityagarg
 - 👀 I’m interested in data anaylysis, power bi, data validation, data visualization, data science
-- 🌱 I’m currently learning new skills to enhance my profile
+- 🌱 I’m currently working as a data analyst and also learning new skills to enhance my profile
 - 💞️ I’m looking to collaborate on any data driven projects...
 - 📫 How to reach me :- email id- adityagarg941@gmail.com 
 - 😄 Pronouns: ...
